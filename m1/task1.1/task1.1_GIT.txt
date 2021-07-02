@@ -1,0 +1,18 @@
+4e2a59a HEAD@{0}: merge develop: Fast-forward
+2612881 HEAD@{1}: checkout: moving from develop to main
+4e2a59a HEAD@{2}: commit: merge
+ec3aa86 HEAD@{3}: commit: merge
+60ea19d HEAD@{4}: merge images: Fast-forward
+793a6e0 HEAD@{5}: checkout: moving from style to develop
+793a6e0 HEAD@{6}: checkout: moving from develop to style
+793a6e0 HEAD@{7}: checkout: moving from images to develop
+60ea19d HEAD@{8}: commit: adding images to index.html
+793a6e0 HEAD@{9}: checkout: moving from develop to images
+793a6e0 HEAD@{10}: commit: add index.html
+2612881 HEAD@{11}: checkout: moving from main to develop
+2612881 HEAD@{12}: commit: adding folders
+92c0f8c HEAD@{13}: pull origin main (finish): returning to refs/heads/main
+92c0f8c HEAD@{14}: pull origin main (pick): lol
+2e87648 HEAD@{15}: pull origin main (start): checkout 2e876483a74343caeb2638a1871bc50e1f3bcb3e
+f6f6b7a HEAD@{16}: Branch: renamed refs/heads/master to refs/heads/main
+f6f6b7a HEAD@{18}: commit (initial): lol
